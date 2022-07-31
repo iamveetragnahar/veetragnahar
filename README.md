@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Veetrag Nahar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Learn Frontend With Fun](https://github.com/veetragnahar/Learn-Frontend-With-Fun.git)
+-
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 I’m currently working on [Technology Is Awesome](https://github.com/veetragnahar/Technology-Is-Awesome.git)
+- 🔭 I am a developer by choice and do code for joy
 
 - 👨‍💻 All of my projects are available at [https://github.com/veetragnahar](https://github.com/veetragnahar)
 
